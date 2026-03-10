@@ -4,7 +4,7 @@ Aplikasi ini adalah **Sistem Toko Buku Mini** berskala Web yang dibangun menggun
 
 ## Fitur Utama & Pemenuhan Kriteria Ujian
 
-Proyek ini telah menerapkan seluruh spesifikasi wajib dari soal ujian, dengan rincian sebagai berikut:
+Program ini telah menerapkan seluruh spesifikasi wajib dari soal ujian, dengan rincian sebagai berikut:
 
 1. **Antarmuka (Interface) HTML**
    - Menggunakan HTML, CSS berdesain rapi (efek _glassmorphism_), serta input form lengkap dan tabel untuk interaksi pengguna.
@@ -70,7 +70,7 @@ Penuhi langkah-langkah di bawah ini untuk menguji program secara lokal (Localhos
 
 ### 1. Prasyarat Sistem
 
-Pastikan Anda sudah menginstal **Python** (versi 3.8 ke atas) di perangkat/komputer Anda.
+Pastikan sudah menginstal Python versi 3.8 ke atas pada perangkat/komputer.
 
 ### 2. Instalasi Library Eksternal
 
